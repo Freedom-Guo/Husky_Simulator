@@ -1,0 +1,2 @@
+husky_base:husky_bringup:husky_control:husky_description:husky_desktop:husky_gazebo:husky_msgs:husky_navigation:husky_robot:husky_simulator:husky_viz:odom_tf_package
+-DCATKIN_DEVEL_PREFIX=/home/freedomguo/husky_ws/devel -DCMAKE_INSTALL_PREFIX=/home/freedomguo/husky_ws/install -G Unix Makefiles
